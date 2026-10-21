@@ -1,0 +1,9 @@
+{
+  "name": "genpark-context-window-token-pruner-skill",
+  "version": "1.0.1",
+  "description": "Priority-weighted context window token pruner and FIFO eviction engine protecting LLM prompt boundaries",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
