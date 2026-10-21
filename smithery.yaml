@@ -1,0 +1,7 @@
+name: genpark-context-window-token-pruner-skill
+description: Priority-weighted context window token pruner and FIFO eviction engine protecting LLM prompt boundaries
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
